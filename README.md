@@ -8,7 +8,7 @@
 <p>This Project Consists of 2 Files</p>
 <ul>
   <li>Messages.csv : is a CSV file that stores tabular data(Messages Dataset) in plain text, where each line of the file typically represents one data record(Message). </li>
-  <li>SpamFilter.ipnyb : is a JSON (JavaScript Object Notation) file that contains complete/Non-Redundant records of Messages.csv, including code input and output, narrative texts, and Additional informations that was displayed during the session.</li>
+  <li>SpamFilter.ipynb : is a JSON (JavaScript Object Notation) file that contains complete/Non-Redundant records of Messages.csv, including code input and output, narrative texts, and Additional informations that was displayed during the session.</li>
 </ul>
 
 <!Project Description>
